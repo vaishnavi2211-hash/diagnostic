@@ -530,7 +530,7 @@ export function Landing() {
               </span>
             </button>
             <a
-              href="tel:+914044442424"
+              href="tel:+918885195185"
               className="flex items-start gap-3 rounded-xl border border-slate-100 dark:border-slate-800 bg-slate-50 dark:bg-slate-800/50 p-4 transition hover:border-primary/30 dark:hover:border-primary/50 hover:bg-white dark:hover:bg-slate-800"
             >
               <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg bg-emerald-100 dark:bg-emerald-900/30 text-emerald-700 dark:text-emerald-400">
